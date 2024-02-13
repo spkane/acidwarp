@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-#include <SDL.h>
+#include <SDL/SDL.h>
 #ifdef WITH_GL
 #undef WITH_GLES
 #undef WITH_GLEW

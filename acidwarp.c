@@ -12,8 +12,8 @@
 #include <emscripten.h>
 #endif
 
-#include <SDL.h>
-#include <SDL_main.h>
+#include <SDL/SDL.h>
+#include <SDL/SDL_main.h>
  
 #include "handy.h"
 #include "acidwarp.h"
