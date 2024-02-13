@@ -2,6 +2,8 @@
 
 Now, you can have a pseudo-screensaver for your SteamDeck.
 
+https://github.com/spkane/acidwarp/assets/129629/3d8d7511-09dc-4627-b3cf-9cb9e104c45e
+
 **WARNING** Please only do this if you understand each step. These are advanced directions and it could break your SteamDeck. I am not responsible for what happens...
 
 `"It worked for me..."`
