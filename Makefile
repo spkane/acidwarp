@@ -1,5 +1,5 @@
 PREFIX := /usr/local
-CFLAGS := -O3 -Wall -Wmissing-prototypes -lSDL
+CFLAGS := -O3 -Wall -Wmissing-prototypes
 SOURCES := acidwarp.c palinit.c rolnfade.c display.c
 IMGGEN_SOURCES := bit_map.c lut.c img_int.c img_float.c
 OBJECTS = $(SOURCES:%.c=%.o)
